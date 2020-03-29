@@ -47,4 +47,6 @@ class Task1HappyArrayTest {
         val happyArray = intArrayOf()
         assertArrayEquals(happyArray, converter.convertToHappy(sadArray))
     }
+
+
 }
